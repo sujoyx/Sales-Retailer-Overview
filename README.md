@@ -32,7 +32,7 @@
 
 🧙‍♂️ For the design part I used Microsoft PowerPoint
 
-Power Bi file click [HERE]()
+Power Bi file click [HERE](https://github.com/sujoyx/Sales-Retailer-Overview/blob/main/Sales%20&%20Retailer%20Overview.pbix?raw=true)
 
 # 📊 Visualization
 ![Sales   Retailer Overview](https://user-images.githubusercontent.com/118610214/202884952-3f47c1e7-fff1-444d-a1e8-e0475c9732c4.jpg)
