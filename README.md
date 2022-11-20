@@ -1,6 +1,6 @@
 # Power Bi Visualization 
 
-# Sales-Retailer-Overview
+# Sales Retailer Overview
 
 
 📚 About data This dataset contains a Excel table with 9,289 records & 13 columns
